@@ -1,8 +1,4 @@
-Here is a **preface** that honors the origin of the work, names the shift honestly, and frames the book as a pastoral turning rather than a rejection.
-
----
-
-## Preface
+# Preface
 
 This book did not begin as a new project. It began as a response.
 
